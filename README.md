@@ -6,7 +6,10 @@ Project Name:
 
 Project Members: 
 Elina Hvirtsman <eh582@cornell.edu>
+
 Julia Ng <jen67@cornell.edu>
+
 Lucy Du <dd483@cornell.edu>
+
 
 Project Description:
