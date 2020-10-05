@@ -2,8 +2,7 @@
 
 This is a repository for our ORIE 4741 class project.
 
-Project Name: Racial Bias in Civilian-Officer Interactions
-
+Project Name: Racial Bias in Civilian-Officer Outcomes
 Project Members: 
 
 Elina Hvirtsman <eh582@cornell.edu>
