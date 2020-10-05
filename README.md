@@ -1,8 +1,5 @@
-# ORIE4741
+# Racial Bias in Civilian-Officer Outcomes
 
-This is a repository for our ORIE 4741 class project.
-
-Project Name: Racial Bias in Civilian-Officer Outcomes
 Project Members: 
 
 Elina Hvirtsman <eh582@cornell.edu>
