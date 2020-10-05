@@ -6,7 +6,7 @@ Racially motivated and fatal shootings by police officers sparked widespread pub
 
 Problem:
 
-Our goal is to understand what factors most influence civilian and police interaction outcomes and determine if there is evidence to suggest racial bias. Given demographic and situational factors, are we able to predict outcomes for these interactions?
+Our goal is to understand what factors most influence civilian and police interaction outcomes and determine if there is evidence to suggest racial bias in Minneapolis police precincts. Given demographic and situational factors, are we able to predict outcomes for these interactions?
 
 
 Data:
