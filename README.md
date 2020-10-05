@@ -2,7 +2,7 @@
 
 This is a repository for our ORIE 4741 class project.
 
-Project Name: Racial Bias in Civilian-Office Interactions
+Project Name: Racial Bias in Civilian-Officer Interactions
 
 Project Members: 
 
