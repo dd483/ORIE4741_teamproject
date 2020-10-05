@@ -2,7 +2,7 @@
 
 Introduction:
 
-Racially motivated and fatal shootings by police officers sparked widespread public attention and resulted in major activism across the nation in the past decade, and especially in the last few months of 2020, as these were not isolated events. Demonstrations and protests prevailed earlier this year against police brutality and racially motivated civilian-officer interactions. Nearly 11,000 demonstration, political violence, and strategic development events were recorded across America since late May, according to new US Crisis Monitor data gathered by ACLED (The Armed Conflict Location & Event Data Project). Nearly 73% of all demonstrations from late May to late August, across 2,440 locations in all 50 states and DC, were associated with the BLM movement.
+Racially motivated and fatal shootings by police officers sparked widespread public attention and resulted in major activism across the nation in the past decade, and especially in the last few months of 2020, as these were not isolated events. Demonstrations and protests prevailed earlier this year against police brutality and racially motivated civilian-officer interactions. Nearly 11,000 demonstration, political violence, and strategic development events were recorded across America since late May, according to new US Crisis Monitor data gathered by ACLED (The Armed Conflict Location & Event Data Project). Nearly 73% of all demonstrations from late May to late August, across 2,440 locations in all 50 states and DC, were associated with the BLM movement, showcasing the relevancy of providing concrete evidence to their political voice.
 
 Problem:
 
