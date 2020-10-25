@@ -4,6 +4,28 @@ library(ggplot2)
 
 df = read.csv("Police_Stop_Data_nonmissing.csv")
 dim(df)
+colnames(df)
+
+table(df$reason)
+table(df$problem)
+table(df$callDisposition)
+table(df$citationIssued)
+table(df$personSearch)
+table(df$vehicleSearch)
+table(df$preRace)
+table(df$race)
+table(df$gender)
+table(df$policePrecinct)
+table(df$neighborhood)
+summary(df$lat)
+
+df = df[df$lat > 0,]
+
+summary(df$lat)
+summary(df$long)
+
+barplot(prop.table(table(df$citationIssued)), main="Citation Issued Proportion",
+        ylim=c(0,1))
 
 #RACE AND CITATION
 data = df %>%
@@ -18,7 +40,7 @@ ggplot(data, aes(x = race, y = freq))+
   ) +  
   xlab("Race") + 
   ylab("Proportional Frequency") +
-  ggtitle("Citation Outcome in Overall Proportions") 
+  ggtitle("Citation Outcome in Overall Proportions by Race") 
   
 
 data = df %>%
@@ -55,7 +77,7 @@ ggplot(data, aes(x = policePrecinct, y = freq))+
   ) +  
   xlab("Precinct") + 
   ylab("Proportional Frequency") +
-  ggtitle("Citation Outcome in Overall Proportions") 
+  ggtitle("Citation Outcome in Overall Proportions by Precinct") 
 
 
 data = df %>%
@@ -136,7 +158,7 @@ ggplot(data, aes(x = reason, y = freq))+
   ) +  
   xlab("Problem") + 
   ylab("Proportional Frequency") +
-  ggtitle("Citation Outcome in Overall Proportions") 
+  ggtitle("Citation Outcome in Overall Proportions by Problem") 
 
 
 data = df %>%
