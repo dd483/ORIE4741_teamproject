@@ -1,4 +1,4 @@
-# Racial Bias in Civilian-Officer Outcomes
+# Predicting Civilian-Officer Outcomes
 
 Project Members: 
 
