@@ -11,4 +11,4 @@ Lucy Du <dd483@cornell.edu>
 
 Project Description:
 
-Racially motivated and fatal shootings by police officers sparked widespread public attention and resulted in major activism across the nation in the past decade, and especially in the last few months of 2020. Our goal is to understand what factors most influence civilian and police interaction outcomes and determine if there is evidence to suggest racial bias. Given demographic and situational factors, are we able to predict outcomes for these interactions?
+Our project’s goal is to understand what factors most influence civilian and police interaction outcomes and determine if conduct by the Minneapolis police precincts can be predicted. Given demographic and situational factors, we fit and develop models that predict whether the civilian will be issued a citation in the event of being stopped by police, or which police force the civilian will experience in more severe situations.  
